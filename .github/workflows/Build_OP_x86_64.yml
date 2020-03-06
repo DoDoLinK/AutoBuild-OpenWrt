@@ -2,6 +2,7 @@
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
 # Author: DoDoLinK
+# bilibili：https://space.bilibili.com/65164691
 #=================================================
 
 name: Build_x86_64
